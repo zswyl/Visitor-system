@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<visitorcontract>
+  <visitor visitorId="1">
+    <name>张三</name>
+    <sex>男</sex>
+    <phone>12345678912</phone>
+    <visitTime>2021/6/19 13:06:00</visitTime>
+    <visitCase>办事</visitCase>
+    <leaveTime>2021/6/19 13:06:00</leaveTime>
+  </visitor>
+  <visitor visitorId="2">
+    <name>李四</name>
+    <sex>男</sex>
+    <phone>111111</phone>
+    <visitTime>2021/6/19 13:06:00</visitTime>
+    <visitCase>办事</visitCase>
+    <leaveTime>2021/6/19 13:06:00</leaveTime>
+  </visitor>
+  <visitor visitorId="3">
+    <name>王二麻</name>
+    <sex>女</sex>
+    <phone>11521512135</phone>
+    <visitTime>2021/6/19 13:06:00</visitTime>
+    <visitCase>办事</visitCase>
+    <leaveTime>2021/6/19 13:06:00</leaveTime>
+  </visitor>
+</visitorcontract>

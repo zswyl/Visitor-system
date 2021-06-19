@@ -1,0 +1,38 @@
+D:\My Documents\Visual Studio 2012\Projects\mycontracts\bin\Debug\mycontracts.exe.config
+D:\My Documents\Visual Studio 2012\Projects\mycontracts\bin\Debug\mycontracts.exe
+D:\My Documents\Visual Studio 2012\Projects\mycontracts\bin\Debug\mycontracts.pdb
+D:\My Documents\Visual Studio 2012\Projects\mycontracts\obj\Debug\mycontracts.csprojResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2012\Projects\mycontracts\obj\Debug\mycontracts.Form_add.resources
+D:\My Documents\Visual Studio 2012\Projects\mycontracts\obj\Debug\mycontracts.Form_edit.resources
+D:\My Documents\Visual Studio 2012\Projects\mycontracts\obj\Debug\mycontracts.Form_Main.resources
+D:\My Documents\Visual Studio 2012\Projects\mycontracts\obj\Debug\mycontracts.Form_search.resources
+D:\My Documents\Visual Studio 2012\Projects\mycontracts\obj\Debug\mycontracts.Properties.Resources.resources
+D:\My Documents\Visual Studio 2012\Projects\mycontracts\obj\Debug\mycontracts.csproj.GenerateResource.Cache
+D:\My Documents\Visual Studio 2012\Projects\mycontracts\obj\Debug\mycontracts.exe
+D:\My Documents\Visual Studio 2012\Projects\mycontracts\obj\Debug\mycontracts.pdb
+F:\Microsoft Visual Studio 2019\Workspace\Simple-Student-Information-management-system\obj\Debug\mycontracts.csproj.AssemblyReference.cache
+F:\Microsoft Visual Studio 2019\Workspace\Simple-Student-Information-management-system\obj\Debug\mycontracts.Form_add.resources
+F:\Microsoft Visual Studio 2019\Workspace\Simple-Student-Information-management-system\obj\Debug\mycontracts.Form_edit.resources
+F:\Microsoft Visual Studio 2019\Workspace\Simple-Student-Information-management-system\obj\Debug\mycontracts.Form_Main.resources
+F:\Microsoft Visual Studio 2019\Workspace\Simple-Student-Information-management-system\obj\Debug\mycontracts.Form_search.resources
+F:\Microsoft Visual Studio 2019\Workspace\Simple-Student-Information-management-system\obj\Debug\mycontracts.Properties.Resources.resources
+F:\Microsoft Visual Studio 2019\Workspace\Simple-Student-Information-management-system\obj\Debug\mycontracts.csproj.GenerateResource.cache
+F:\Microsoft Visual Studio 2019\Workspace\Simple-Student-Information-management-system\obj\Debug\mycontracts.csproj.CoreCompileInputs.cache
+F:\Microsoft Visual Studio 2019\Workspace\Simple-Student-Information-management-system\obj\Debug\mycontracts.exe
+F:\Microsoft Visual Studio 2019\Workspace\Simple-Student-Information-management-system\obj\Debug\mycontracts.pdb
+F:\Microsoft Visual Studio 2019\Workspace\Simple-Student-Information-management-system\bin\Debug\mycontracts.exe.config
+F:\Microsoft Visual Studio 2019\Workspace\Simple-Student-Information-management-system\bin\Debug\mycontracts.exe
+F:\Microsoft Visual Studio 2019\Workspace\Simple-Student-Information-management-system\bin\Debug\mycontracts.pdb
+F:\Microsoft Visual Studio 2019\Workspace\Off campus personnel management system\obj\Debug\mycontracts.csproj.AssemblyReference.cache
+F:\Microsoft Visual Studio 2019\Workspace\Off campus personnel management system\obj\Debug\mycontracts.Form_add.resources
+F:\Microsoft Visual Studio 2019\Workspace\Off campus personnel management system\obj\Debug\mycontracts.Form_edit.resources
+F:\Microsoft Visual Studio 2019\Workspace\Off campus personnel management system\obj\Debug\mycontracts.Form_Main.resources
+F:\Microsoft Visual Studio 2019\Workspace\Off campus personnel management system\obj\Debug\mycontracts.Form_search.resources
+F:\Microsoft Visual Studio 2019\Workspace\Off campus personnel management system\obj\Debug\mycontracts.Properties.Resources.resources
+F:\Microsoft Visual Studio 2019\Workspace\Off campus personnel management system\obj\Debug\mycontracts.csproj.GenerateResource.cache
+F:\Microsoft Visual Studio 2019\Workspace\Off campus personnel management system\obj\Debug\mycontracts.csproj.CoreCompileInputs.cache
+F:\Microsoft Visual Studio 2019\Workspace\Off campus personnel management system\obj\Debug\mycontracts.exe
+F:\Microsoft Visual Studio 2019\Workspace\Off campus personnel management system\obj\Debug\mycontracts.pdb
+F:\Microsoft Visual Studio 2019\Workspace\Off campus personnel management system\bin\Debug\mycontracts.exe.config
+F:\Microsoft Visual Studio 2019\Workspace\Off campus personnel management system\bin\Debug\mycontracts.exe
+F:\Microsoft Visual Studio 2019\Workspace\Off campus personnel management system\bin\Debug\mycontracts.pdb
